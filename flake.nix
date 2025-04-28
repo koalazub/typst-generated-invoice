@@ -26,6 +26,8 @@
               typst
               typstfmt
               typst-live
+              typstyle
+              tinymist
             ];
 
             shellHook = ''
